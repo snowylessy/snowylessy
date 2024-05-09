@@ -1,16 +1,28 @@
-### Hi there 👋
+## Привет! 👋
 
-<!--
-**snowylessy/snowylessy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Обо мне❄️
+Занимаюсь ручным и автоматизированным тестированием ПО. В свободное время люблю работать руками - делать элементы декора, съедобные букеты и т.п.
 
-Here are some ideas to get you started:
+**Навыки: 🏅**
+- Визуализация требований и поиск серых зон
+- Проектирование чек-листов и тест-кейсов
+- Тестирование мобильных и веб-приложений
+- Тестирование API
+- Создание автотестов
+- Составление SQL запросов
+- Базовое использование Linux Bash
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Инструменты: 🛠️**
+- Qase / Jira / Notion
+- Chrome DevTools
+- Postman
+- Charles
+- JMeter
+- Android Studio
+- PyCharm + pytest
+- Git
+- draw.io / miro
+
+**Образование: 🎓**
+- ЯО МФЮА - "Финансы и кредит"
+- Яндекс Практикум - "Инженер по тестированию плюс"
