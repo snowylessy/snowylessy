@@ -31,3 +31,6 @@
 -  [Коллекция из Postman](https://github.com/snowylessy/snowylessy/blob/main/portfolio/api_tb_coll.png) (скриншот)
 -  [Баг-репорты](https://github.com/snowylessy/snowylessy/blob/main/portfolio/bug_repot_api_tb.png) по API
 -  [Обратная связь](https://github.com/snowylessy/snowylessy/blob/main/portfolio/feedback.png) от тимлида по работе с заказчиком и проектом
+
+ ##### Создание автотестов на Python по чек-листу.
+ - [Проект](https://github.com/snowylessy/snowylessy/blob/main/portfolio/python.png) из PyCharm.
