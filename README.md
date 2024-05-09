@@ -15,7 +15,7 @@
 - Базовое использование Linux Bash
 
 **Инструменты: 🛠️**
-- Qase / Jira / Notion
+- Qase / YouTrack / Jira / Notion
 - Chrome DevTools
 - Postman
 - Charles
