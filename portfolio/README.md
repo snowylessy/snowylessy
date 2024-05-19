@@ -10,7 +10,7 @@
 
 ##### Тест-дизайн требований Яндекс.Маршруты + Особенности тестирования веб-приложений.
 - [Диаграмма переходов и состояний](https://github.com/snowylessy/snowylessy/blob/main/portfolio/perehodi_and_sostoyaniya_car.png) фичи Каршеринг
-- [Таблица классов эквивалетности и граничных значений](https://github.com/snowylessy/snowylessy/blob/main/portfolio/ce_and_gz_name.png) для формы добавления прав
+- [Таблица классов эквивалентности и граничных значений](https://github.com/snowylessy/snowylessy/blob/main/portfolio/ce_and_gz_name.png) для формы добавления прав
 - [Таблица принятия решений](https://github.com/snowylessy/snowylessy/blob/main/portfolio/prinyatie_reshenii.png) для выбора тарифа и кнопки "Забронировать"
 - [Тест-кейсы](https://github.com/snowylessy/snowylessy/blob/main/portfolio/add_pay_and_prava.png) по добавлению прав и карты
 - [Баг-репорты](https://github.com/snowylessy/snowylessy/blob/main/portfolio/bug_report_prava.png) по тест-кейсам "Добавление прав и карты"
